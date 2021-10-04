@@ -1,0 +1,21 @@
+{
+    "music.elevator": {
+        "sounds": [
+            {
+                "name": "music/elevator1"
+            },
+            {
+                "name": "music/elevator2"
+            }
+        ],
+        "subtitle": "Elevator music"
+    },
+    "music.april_showers": {
+        "sounds": [
+            {
+                "name": "music/april_showers"
+            }
+        ],
+        "subtitle": "Funky music"
+    }
+}
