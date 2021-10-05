@@ -1,1 +1,1 @@
-zip -r pack-archive.zip The\ Floating\ City
+cd The\ Floating\ City; zip -r ../pack-archive.zip *
