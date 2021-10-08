@@ -17,5 +17,53 @@
             }
         ],
         "subtitle": "Funky music"
+    },
+    "music.despacito": {
+        "sounds": [
+            {
+                "name": "music/despacito"
+            }
+        ],
+        "subtitle": "Despacito"
+    },
+    "music.megalovania": {
+        "sounds": [
+            {
+                "name": "music/megalovania"
+            }
+        ],
+        "subtitle": "Megalovania"
+    },
+    "music.rickroll": {
+        "sounds": [
+            {
+                "name": "music/rickroll"
+            }
+        ],
+        "subtitle": "Rickroll"
+    },
+    "music.ussr_anthem": {
+        "sounds": [
+            {
+                "name": "music/ussr_anthem"
+            }
+        ],
+        "subtitle": "USSR anthem"
+    },
+    "music.wii_store": {
+        "sounds": [
+            {
+                "name": "music/wii_store"
+            }
+        ],
+        "subtitle": "Wii store music"
+    },
+    "music.wii": {
+        "sounds": [
+            {
+                "name": "music/wii"
+            }
+        ],
+        "subtitle": "Wii music"
     }
 }
