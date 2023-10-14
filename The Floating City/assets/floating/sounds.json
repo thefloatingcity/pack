@@ -26,6 +26,15 @@
         ],
         "subtitle": "USSR anthem"
     },
+        "music.ussr_anthem.mono": {
+        "sounds": [
+            {
+                "name": "music/ussr_anthem_mono",
+                "attenuation_distance": 32
+            }
+        ],
+        "subtitle": "USSR anthem"
+    },
     "music.wii_store": {
         "sounds": [
             {
