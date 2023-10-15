@@ -13,7 +13,9 @@ uniform int FogShape;
 out float vertexDistance;
 
 void main() {
-    if (ProjMat[3][2] != 2.0) { // icky.
+    if (Position.y == 16 || Position.y == -16) { // icky.
+        // 16, sky darkens.
+        // -16, black plane.
         gl_Position = ProjMat * vec4(Position, 1.0);
         gl_Position.y = -gl_Position.z;
     } else { // vanilla behavior.
