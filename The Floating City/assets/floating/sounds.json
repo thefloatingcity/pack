@@ -1,46 +1,30 @@
 {
-    "music.elevator": {
-        "sounds": [
-            {
-                "name": "music/elevator1"
-            },
-            {
-                "name": "music/elevator2"
-            }
-        ],
-        "subtitle": "Elevator music"
-    },
-    "music.april_showers": {
-        "sounds": [
-            {
-                "name": "music/april_showers"
-            }
-        ],
-        "subtitle": "Funky music"
-    },
-    "music.ussr_anthem": {
-        "sounds": [
-            {
-                "name": "music/ussr_anthem"
-            }
-        ],
-        "subtitle": "USSR anthem"
-    },
-        "music.ussr_anthem.mono": {
-        "sounds": [
-            {
-                "name": "music/ussr_anthem_mono",
-                "attenuation_distance": 32
-            }
-        ],
-        "subtitle": "USSR anthem"
-    },
-    "music.wii_store": {
-        "sounds": [
-            {
-                "name": "music/wii_store"
-            }
-        ],
-        "subtitle": "Wii store music"
-    }
+  "music.elevator": {
+    "sounds": [
+      {
+        "name": "music/elevator1"
+      },
+      {
+        "name": "music/elevator2"
+      }
+    ],
+    "subtitle": "Elevator music"
+  },
+  "music.april_showers": {
+    "sounds": [
+      {
+        "name": "music/april_showers"
+      }
+    ],
+    "subtitle": "Funky music"
+  },
+  "nextbot.obunga": {
+    "sounds": [
+      {
+        "name": "nextbot/obunga",
+        "attenuation_distance": 32
+      }
+    ],
+    "subtitle": "USSR anthem"
+  }
 }
